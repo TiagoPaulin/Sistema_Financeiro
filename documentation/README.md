@@ -7,5 +7,6 @@ Esta pasta contém a documentação do projeto, reunindo informações sobre seu
 ## Planejamento e Requisitos
 
 - [Escopo do Projeto](./project-scope.md): apresenta os objetivos, a justificativa, o público-alvo e os limites do projeto.
-- [Requisitos do Projeto](./project-requirements.md): apresenta os requisitos funcionais do projeto
-- [Requisitos Não Funcionais do Projeto](./project-requirements.md): apresenta os requisitos não funcionais funcionais do projeto
+- [Requisitos do Projeto](./project-requirements.md): apresenta os requisitos funcionais do projeto.
+- [Requisitos Não Funcionais do Projeto](./project-requirements.md): apresenta os requisitos não funcionais funcionais do projeto.
+- [Regras de Negócio](./project-business-rules.md): apresenta as regras de negócio do projeto.
