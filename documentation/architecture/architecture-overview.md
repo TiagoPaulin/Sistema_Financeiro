@@ -199,3 +199,7 @@ As decisões relevantes para a arquitetura serão documentadas individualmente p
 - [ADR-003](./decisions/ADR-003.md): Comunicação entre Módulos por meio de APIs Públicas Internas
 - [ADR-004](./decisions/ADR-004.md): Adoção de Monorepo
 - [ADR-005](./decisions/ADR-005.md): Adoção de API REST para Comunicação entre Frontend e Backend
+- [ADR-006](./decisions/ADR-006.md): Adoção do PostgreSQL
+- [ADR-007](./decisions/ADR-007.md): Adoção do Flyway para Gerenciamento de Migrações do Banco de Dados
+- [ADR-008](./decisions/ADR-008.md): Adoção do Docker para Containerização da Aplicação
+- [ADR-009](./decisions/ADR-009.md): Adoção do Spring Modulith

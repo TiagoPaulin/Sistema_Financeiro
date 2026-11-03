@@ -14,3 +14,4 @@ Esta pasta contém a documentação do projeto, reunindo informações sobre seu
 ## Arquitetura e Tecnologias
 
 - [Visão Geral da Arquitetura](./architecture/architecture-overview.md): apresenta um overview da arquitetura que será utilizada no projeto junto com as decisões importantes ADRs
+- [Tecnologias Utilizadas](./architecture/technology-stack.md): Apresenta as principais tecnologias utilizadas no projeto
