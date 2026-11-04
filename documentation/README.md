@@ -15,3 +15,7 @@ Esta pasta contém a documentação do projeto, reunindo informações sobre seu
 
 - [Visão Geral da Arquitetura](./architecture/architecture-overview.md): apresenta um overview da arquitetura que será utilizada no projeto junto com as decisões importantes ADRs
 - [Tecnologias Utilizadas](./architecture/technology-stack.md): Apresenta as principais tecnologias utilizadas no projeto
+
+## Diagramas
+
+- [Contexto (C4 nível 1)](./diagrams/c4-context.md) Visão geral sobre quem usará o sistema e com quais serviços externos o sistema conversa.
