@@ -19,4 +19,5 @@ Esta pasta contém a documentação do projeto, reunindo informações sobre seu
 ## Diagramas
 
 - [Contexto (C4 nível 1)](./diagrams/c4-context.md) Visão geral sobre quem usará o sistema e com quais serviços externos o sistema conversa.
-- [Containers (C4 nível 2)](./diagrams/c4-context.md) Visão geral de como as partes do sistema se comunicam entre si e com o usuário final
+- [Containers (C4 nível 2)](./diagrams/c4-context.md) Visão geral de como as partes do sistema se comunicam entre si e com o usuário final.
+- [Components (C4 nível 3)](./diagrams/c4-components.md) Visão geralde como os principais módulos do backend são estruturados e se comunicam entre si.
